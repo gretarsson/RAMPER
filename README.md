@@ -6,4 +6,4 @@ Code is part of Christoffer Gretarsson Alexandersen's master thesis (May, 2019).
 
 The primary functions createUncModel() and solveUncModel() are found in /Funcs alongside the module uncUtils.py.
 All other scripts and functions as described in the thesis are found in /Expr.
-The ecYeast8 GEM was described in the thesis is found in /GEMs.
+The ecYeast8 GEM as described in the thesis is found in /GEMs.
