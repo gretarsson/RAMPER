@@ -1,0 +1,32 @@
+(lp0
+(lp1
+(lp2
+F2.51565402013e-08
+aF0.010000146975
+aS'optimal'
+p3
+aS'optimal'
+p4
+aI0
+aF0.00365422785152
+aa(lp5
+I0
+aF-0.0
+aS'Flux is lower than1e-08in optimal solution'
+p6
+aS'optimal'
+p7
+aI1
+aF-0.0
+aa(lp8
+I0
+aF-0.0
+aS'Flux is lower than1e-08in optimal solution'
+p9
+aS'optimal'
+p10
+aI2
+aF-0.0
+aaS"ecYeast_batch.mat {'solveOutput': False, 'maxPercUncS': 1, 'QPtol': 0.0001, 'M': 0.01, 'minKUnc': 0.05, 'maxKUnc': 0.25, 'retrieveInstance': True, 'maxPercUncK': False, 'LPmethod': 2, 'BarrierCorrections': -1, 'linearKUncertainty': True, 'Crossover': 3, 'pathToFile': 'C:/Users/cga32/OneDrive/Masteroppgave/PythonScriptsandFiles/RAMPGECKO/GEMs/', 'print': False, 'logFile': 'logFileFVA'}"
+p11
+aa.

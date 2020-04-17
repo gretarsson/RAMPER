@@ -1,0 +1,48 @@
+Running uncModel()
+In parseData
+	Model input determined to be cobrapy model object
+	Done extracting S matrix
+	Done updating cobrapy variable bounds
+	Constraint matrices generated
+	b vector found
+	Var bound vectors found
+	Done extracting b vector and variable bound vectors
+	Done extracting c vector
+	Done extracting metabolite names
+	Done extracting reaction names
+	Done extracting data from COBRAModel cobrapy model
+	Pool constraint found
+	Done parsing the larger S and K from the GECKO LP matrix
+	Done parsing S, K, P, and MW
+	Done parsing cS, ubS, lbS, ubK, lbK, and totMass
+	Done identifying SLIME reaction columns. 186 SLIME reactions found
+	Parsing complete
+Evaluated parseData() successfully in uncModel()
+
+In modelKcatUncertainty
+	Completed first pass through K
+	Completed construction of RK
+	Uncertainty model complete
+Evaluated modelKcatUncertainty() successfully in uncModel()
+
+In modelSUncertainty
+	Completed first pass through S. 94 uncertain rows created
+	Parsed S into (un)certain parts
+	Completed construction of RS
+	Uncertainty Model Complete
+Evaluated modelSUncertainty() successfully in uncModel()
+
+In solveModel
+	Identified uncertainty structure via RS and Rk
+	Identified nonzero elements of S and K
+	Done instantiating sets
+	Done instantiating variables
+	Defined the objective 
+	Done with steady state constraints
+	Done with enzyme-flux constraints
+	Done with the pool constraint
+	Creating model instance
+	Done creating model instance
+	Done solving the instance
+	Instance was solved optimally
+Evaluated modelSolve() successfully in uncModel()

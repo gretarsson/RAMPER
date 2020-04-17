@@ -1,0 +1,15 @@
+Input of solveUncModel is incomplete with respect to parameters.
+In solveModel
+	Identified uncertainty structure via RS and Rk
+	Identified nonzero elements of S and K
+	Done instantiating sets
+	Done instantiating variables
+	Defined the objective 
+	Done with steady state constraints
+	Done with enzyme-flux constraints
+	Done with the pool constraint
+	Creating model instance
+	Done creating model instance
+	Done solving the instance
+	Instance was solved optimally
+Evaluated modelSolve() successfully in uncModel()

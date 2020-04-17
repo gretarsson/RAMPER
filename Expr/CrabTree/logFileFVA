@@ -1,0 +1,44 @@
+Initializing FVA process
+
+Starting to solve initial optimization problem to find optimal growth rate
+Running uncModel()
+In parseData
+	Model input determined to be cobrapy model object
+	Done extracting S matrix
+	Done updating cobrapy variable bounds
+	Constraint matrices generated
+	b vector found
+	Var bound vectors found
+	Done extracting b vector and variable bound vectors
+	Done extracting c vector
+	Done extracting metabolite names
+	Done extracting reaction names
+	Done extracting data from COBRAModel cobrapy model
+	Pool constraint found
+	Done parsing the larger S and K from the GECKO LP matrix
+	Done parsing S, K, P, and MW
+	Done parsing cS, ubS, lbS, ubK, lbK, and totMass
+	Done identifying SLIME reaction columns. 0 SLIME reactions found
+	Parsing complete
+Evaluated parseData() successfully in uncModel()
+
+No K uncertainty input: Skipped modelKcatUncertainty() in uncModel()
+No S uncertainty input: Skipped modelSUncertainty() in uncModel()
+
+In solveModel
+	Identified uncertainty structure via RS and Rk
+	Identified nonzero elements of S and K
+	Done instantiating sets
+	Done instantiating variables
+	Defined the objective 
+	Done with steady state constraints
+	Done with enzyme-flux constraints
+	Done with the pool constraint
+	Creating model instance
+	Done creating model instance
+	Done solving the instance
+	Instance was solved optimally
+Evaluated modelSolve() successfully in uncModel()
+Initial optimization problem solved. Optimal growth rate is 0.407574398665 g/gDWh
+
+Initializing parallelization FVA subproblem tasks on 4 processors

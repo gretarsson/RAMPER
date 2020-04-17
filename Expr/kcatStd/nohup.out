@@ -1,0 +1,16 @@
+cobra/__init__.py:33 [1;31mFutureWarning[0m: Python 2 is reaching end of life (see https://www.python.org/dev/peps/pep-0373/) and many cobra dependencies have already dropped support. At the moment it *should* still work but we will no longer actively maintain Python 2 support.
+Model read successfully
+Computed reference growth rate successfully: 0.320007421386 g/gDWh-1
+Traceback (most recent call last):
+  File "regRamperKcat.py", line 177, in <module>
+    main()
+  File "regRamperKcat.py", line 155, in main
+    allResults = pool.map(func, range(len(protRows))) 
+  File "/usr/lib/python2.7/multiprocessing/pool.py", line 251, in map
+    return self.map_async(func, iterable, chunksize).get()
+  File "/usr/lib/python2.7/multiprocessing/pool.py", line 567, in get
+    raise self._value
+IndexError: invalid index to scalar variable.
+('  Signal handler called from ', '/usr/lib/python2.7/subprocess.py', '_eintr_retry_call', 476)
+('  Waiting...',)
+('  Signaled process', 31177, 'with signal', 15)

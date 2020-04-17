@@ -1,0 +1,33 @@
+
+Gurobi 7.5.2 (linux64, Python) logging started Fri Mar 27 18:43:11 2020
+
+Read LP format model from file /tmp/tmpUdv8Qg.pyomo.lp
+Reading time = 0.04 seconds
+x13373: 8442 rows, 13373 columns, 39663 nonzeros
+Changed value of parameter NumericFocus to 3
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Parameter BarConvTol unchanged
+   Value: 1e-08  Min: 0.0  Max: 1.0  Default: 1e-08
+Parameter BarCorrectors unchanged
+   Value: -1  Min: -1  Max: 2000000000  Default: -1
+Changed value of parameter BarQCPConvTol to 1e-08
+   Prev: 1e-06  Min: 0.0  Max: 1.0  Default: 1e-06
+Parameter Aggregate unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Parameter BarHomogeneous unchanged
+   Value: -1  Min: -1  Max: 1  Default: -1
+Changed value of parameter Presolve to 2
+   Prev: -1  Min: -1  Max: 2  Default: -1
+Changed value of parameter Method to 2
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Crossover to 0
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Optimize a model with 8442 rows, 13373 columns and 39663 nonzeros
+Model has 968 quadratic constraints
+Coefficient statistics:
+  Matrix range     [3e-12, 3e+02]
+  QMatrix range    [1e+00, 1e+00]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [7e-01, 1e+03]
+  RHS range        [1e-01, 1e+00]
+Warning: Model contains large matrix coefficient range

@@ -1,0 +1,1400 @@
+cobra/__init__.py:33 [1;31mFutureWarning[0m: Python 2 is reaching end of life (see https://www.python.org/dev/peps/pep-0373/) and many cobra dependencies have already dropped support. At the moment it *should* still work but we will no longer actively maintain Python 2 support.
+Model read successfully. Model is of type:<class 'cobra.core.model.Model'>
+Looking for fluxes
+	 found "acetate exchange" as "acetate exchange" at index 365
+	 found "carbon dioxide exchange" as "carbon dioxide exchange" at index 393
+	 found "ethanol exchange" as "ethanol exchange" at index 472
+	 found "D-glucose exchange (reversible)" as "D-glucose exchange (reversible)" at index 1836
+	 found "oxygen exchange (reversible)" as "oxygen exchange (reversible)" at index 2026
+All input fluxes found in COBRApy model
+
+Starting at model 1 of 3
+	Original instance retrieved. Optimal growth rate: 0.376827622348
+	Solved instance 1 of 20
+	Solved instance 2 of 20
+	Solved instance 3 of 20
+	Solved instance 4 of 20
+	Solved instance 5 of 20
+	Solved instance 6 of 20
+	Solved instance 7 of 20
+	Solved instance 8 of 20
+	Solved instance 9 of 20
+	Solved instance 10 of 20
+	Solved instance 11 of 20
+	Solved instance 12 of 20
+	Solved instance 13 of 20
+	Solved instance 14 of 20
+	Solved instance 15 of 20
+	Solved instance 16 of 20
+	Solved instance 17 of 20
+	Solved instance 18 of 20
+	Solved instance 19 of 20
+	Solved instance 20 of 20
+Starting at model 2 of 3
+	Original instance retrieved. Optimal growth rate: 0.401311218377
+	Solved instance 1 of 20
+	Solved instance 2 of 20
+	Solved instance 3 of 20
+	Solved instance 4 of 20
+	Solved instance 5 of 20
+	Solved instance 6 of 20
+	Solved instance 7 of 20
+	Solved instance 8 of 20
+	Solved instance 9 of 20
+	Solved instance 10 of 20
+	Solved instance 11 of 20
+	Solved instance 12 of 20
+	Solved instance 13 of 20
+	Solved instance 14 of 20
+	Solved instance 15 of 20
+	Solved instance 16 of 20
+	Solved instance 17 of 20
+	Solved instance 18 of 20
+	Solved instance 19 of 20
+	Solved instance 20 of 20
+Starting at model 3 of 3
+	Original instance retrieved. Optimal growth rate: 0.345727820266
+	Solved instance 1 of 20
+	Solved instance 2 of 20
+	Solved instance 3 of 20
+	Solved instance 4 of 20
+	Solved instance 5 of 20
+	Solved instance 6 of 20
+	Solved instance 7 of 20
+	Solved instance 8 of 20
+	Solved instance 9 of 20
+	Solved instance 10 of 20
+	Solved instance 11 of 20
+	Solved instance 12 of 20
+	Solved instance 13 of 20
+	Solved instance 14 of 20
+	Solved instance 15 of 20
+	Solved instance 16 of 20
+	Solved instance 17 of 20
+	Solved instance 18 of 20
+	Solved instance 19 of 20
+	Solved instance 20 of 20
+cobra/__init__.py:33 [1;31mFutureWarning[0m: Python 2 is reaching end of life (see https://www.python.org/dev/peps/pep-0373/) and many cobra dependencies have already dropped support. At the moment it *should* still work but we will no longer actively maintain Python 2 support.
+Model read successfully. Model is of type:<class 'cobra.core.model.Model'>
+Looking for fluxes
+	 found "acetate exchange" as "acetate exchange" at index 365
+	 found "carbon dioxide exchange" as "carbon dioxide exchange" at index 393
+	 found "ethanol exchange" as "ethanol exchange" at index 472
+	 found "D-glucose exchange (reversible)" as "D-glucose exchange (reversible)" at index 1836
+	 found "oxygen exchange (reversible)" as "oxygen exchange (reversible)" at index 2026
+All input fluxes found in COBRApy model
+
+Starting at model 1 of 7
+	Original instance retrieved. Optimal growth rate: 0.376827622348
+	Solved instance 1 of 15
+	Solved instance 2 of 15
+	Solved instance 3 of 15
+	Solved instance 4 of 15
+	Solved instance 5 of 15
+	Solved instance 6 of 15
+	Solved instance 7 of 15
+	Solved instance 8 of 15
+	Solved instance 9 of 15
+	Solved instance 10 of 15
+('  Signal handler called from ', '/usr/lib/python2.7/subprocess.py', '_eintr_retry_call', 476)
+('  Waiting...',)
+('  Signaled process', 19018, 'with signal', 1)
+ERROR: Solver (gurobi) returned non-zero return code (-1)
+ERROR: Solver log: Changed value of parameter BarQCPConvTol to 0.0001
+       Prev: 1e-06  Min: 0.0  Max: 1.0  Default: 1e-06
+    Changed value of parameter NumericFocus to 3
+       Prev: 0  Min: 0  Max: 3  Default: 0
+    Changed value of parameter BarHomogeneous to 1
+       Prev: -1  Min: -1  Max: 1  Default: -1
+    Optimize a model with 4187 rows, 8144 columns and 32113 nonzeros
+    Coefficient statistics:
+      Matrix range     [6e-11, 3e+02] Objective range  [1e+00, 1e+00] Bounds
+      range     [7e-01, 1e+03] RHS range        [1e-01, 3e+00]
+    Warning: Model contains large matrix coefficient range
+
+    Concurrent LP optimizer: primal simplex, dual simplex, and barrier Showing
+    barrier log only...
+
+    Presolve removed 2785 rows and 4630 columns Presolve time: 0.05s
+    Presolved: 1402 rows, 3514 columns, 15851 nonzeros
+
+    Ordering time: 0.00s
+
+    Barrier statistics:
+     Free vars  : 7 AA' NZ     : 1.616e+04 Factor NZ  : 3.619e+04 (roughly 2
+     MBytes of memory) Factor Ops : 1.623e+06 (less than 1 second per
+     iteration) Threads    : 22
+
+                      Objective                Residual
+    Iter       Primal          Dual         Primal    Dual     Compl     Time
+       0   9.99999390e+02  7.32231703e+00  1.87e+05 1.00e+00  1.00e+06     0s
+       1   1.12386957e+03 -1.16178236e+03  1.06e+05 7.13e+02  6.33e+05     0s
+Traceback (most recent call last):
+  File "CrabSims.py", line 339, in <module>
+    Soln = opt.solve(instance)
+  File "/home/chrisgal/.local/lib/python2.7/site-packages/pyomo/opt/base/solvers.py", line 600, in solve
+    "Solver (%s) did not exit normally" % self.name)
+pyutilib.common._exceptions.ApplicationError: Solver (gurobi) did not exit normally
+cobra/__init__.py:33 [1;31mFutureWarning[0m: Python 2 is reaching end of life (see https://www.python.org/dev/peps/pep-0373/) and many cobra dependencies have already dropped support. At the moment it *should* still work but we will no longer actively maintain Python 2 support.
+Model read successfully. Model is of type:<class 'cobra.core.model.Model'>
+Looking for fluxes
+	 found "acetate exchange" as "acetate exchange" at index 365
+	 found "carbon dioxide exchange" as "carbon dioxide exchange" at index 393
+	 found "ethanol exchange" as "ethanol exchange" at index 472
+	 found "D-glucose exchange (reversible)" as "D-glucose exchange (reversible)" at index 1836
+	 found "oxygen exchange (reversible)" as "oxygen exchange (reversible)" at index 2026
+All input fluxes found in COBRApy model
+
+Starting at model 1 of 7
+	Original instance retrieved. Optimal growth rate: 0.376827622348
+	Solved instance 1 of 15
+	Solved instance 2 of 15
+	Solved instance 3 of 15
+	Solved instance 4 of 15
+	Solved instance 5 of 15
+	Solved instance 6 of 15
+	Solved instance 7 of 15
+	Solved instance 8 of 15
+	Solved instance 9 of 15
+	Solved instance 10 of 15
+	Solved instance 11 of 15
+	Solved instance 12 of 15
+	Solved instance 13 of 15
+	Solved instance 14 of 15
+	Solved instance 15 of 15
+Starting at model 2 of 7
+	Original instance retrieved. Optimal growth rate: 0.345727820266
+	Solved instance 1 of 15
+	Solved instance 2 of 15
+	Solved instance 3 of 15
+	Solved instance 4 of 15
+	Solved instance 5 of 15
+	Solved instance 6 of 15
+	Solved instance 7 of 15
+	Solved instance 8 of 15
+	Solved instance 9 of 15
+	Solved instance 10 of 15
+	Solved instance 11 of 15
+	Solved instance 12 of 15
+	Solved instance 13 of 15
+	Solved instance 14 of 15
+	Solved instance 15 of 15
+Starting at model 3 of 7
+	Original instance retrieved. Optimal growth rate: 0.396902543376
+	Solved instance 1 of 15
+	Solved instance 2 of 15
+	Solved instance 3 of 15
+	Solved instance 4 of 15
+	Solved instance 5 of 15
+	Solved instance 6 of 15
+	Solved instance 7 of 15
+	Solved instance 8 of 15
+	Solved instance 9 of 15
+	Solved instance 10 of 15
+	Solved instance 11 of 15
+	Solved instance 12 of 15
+	Solved instance 13 of 15
+	Solved instance 14 of 15
+	Solved instance 15 of 15
+Starting at model 4 of 7
+	Original instance retrieved. Optimal growth rate: 0.396899383905
+	Solved instance 1 of 15
+	Solved instance 2 of 15
+	Solved instance 3 of 15
+	Solved instance 4 of 15
+	Solved instance 5 of 15
+	Solved instance 6 of 15
+	Solved instance 7 of 15
+	Solved instance 8 of 15
+	Solved instance 9 of 15
+	Solved instance 10 of 15
+	Solved instance 11 of 15
+	Solved instance 12 of 15
+	Solved instance 13 of 15
+	Solved instance 14 of 15
+	Solved instance 15 of 15
+Starting at model 5 of 7
+	Original instance retrieved. Optimal growth rate: 0.396894623784
+	Solved instance 1 of 15
+	Solved instance 2 of 15
+	Solved instance 3 of 15
+	Solved instance 4 of 15
+	Solved instance 5 of 15
+	Solved instance 6 of 15
+	Solved instance 7 of 15
+	Solved instance 8 of 15
+	Solved instance 9 of 15
+	Solved instance 10 of 15
+	Solved instance 11 of 15
+	Solved instance 12 of 15
+	Solved instance 13 of 15
+	Solved instance 14 of 15
+	Solved instance 15 of 15
+Starting at model 6 of 7
+	Original instance retrieved. Optimal growth rate: 0.396902095854
+	Solved instance 1 of 15
+	Solved instance 2 of 15
+	Solved instance 3 of 15
+	Solved instance 4 of 15
+	Solved instance 5 of 15
+	Solved instance 6 of 15
+	Solved instance 7 of 15
+	Solved instance 8 of 15
+	Solved instance 9 of 15
+	Solved instance 10 of 15
+	Solved instance 11 of 15
+	Solved instance 12 of 15
+	Solved instance 13 of 15
+	Solved instance 14 of 15
+	Solved instance 15 of 15
+Starting at model 7 of 7
+	Original instance retrieved. Optimal growth rate: 0.396903644123
+	Solved instance 1 of 15
+	Solved instance 2 of 15
+	Solved instance 3 of 15
+	Solved instance 4 of 15
+	Solved instance 5 of 15
+	Solved instance 6 of 15
+	Solved instance 7 of 15
+	Solved instance 8 of 15
+	Solved instance 9 of 15
+	Solved instance 10 of 15
+	Solved instance 11 of 15
+	Solved instance 12 of 15
+	Solved instance 13 of 15
+	Solved instance 14 of 15
+	Solved instance 15 of 15
+cobra/__init__.py:33 [1;31mFutureWarning[0m: Python 2 is reaching end of life (see https://www.python.org/dev/peps/pep-0373/) and many cobra dependencies have already dropped support. At the moment it *should* still work but we will no longer actively maintain Python 2 support.
+Model read successfully. Model is of type:<class 'cobra.core.model.Model'>
+Looking for fluxes
+	 found "acetate exchange" as "acetate exchange" at index 365
+	 found "carbon dioxide exchange" as "carbon dioxide exchange" at index 393
+	 found "ethanol exchange" as "ethanol exchange" at index 472
+	 found "D-glucose exchange (reversible)" as "D-glucose exchange (reversible)" at index 1836
+	 found "oxygen exchange (reversible)" as "oxygen exchange (reversible)" at index 2026
+All input fluxes found in COBRApy model
+
+Starting at model 1 of 5
+	Original instance retrieved. Optimal growth rate: 0.376827622348
+	Solved instance 1 of 15
+	Solved instance 2 of 15
+	Solved instance 3 of 15
+	Solved instance 4 of 15
+	Solved instance 5 of 15
+	Solved instance 6 of 15
+	Solved instance 7 of 15
+	Solved instance 8 of 15
+	Solved instance 9 of 15
+	Solved instance 10 of 15
+	Solved instance 11 of 15
+	Solved instance 12 of 15
+	Solved instance 13 of 15
+	Solved instance 14 of 15
+	Solved instance 15 of 15
+Starting at model 2 of 5
+	Original instance retrieved. Optimal growth rate: 0.345727820266
+	Solved instance 1 of 15
+	Solved instance 2 of 15
+	Solved instance 3 of 15
+	Solved instance 4 of 15
+	Solved instance 5 of 15
+	Solved instance 6 of 15
+	Solved instance 7 of 15
+	Solved instance 8 of 15
+	Solved instance 9 of 15
+	Solved instance 10 of 15
+	Solved instance 11 of 15
+	Solved instance 12 of 15
+	Solved instance 13 of 15
+	Solved instance 14 of 15
+	Solved instance 15 of 15
+Starting at model 3 of 5
+	Original instance retrieved. Optimal growth rate: 0.396902543376
+	Solved instance 1 of 15
+	Solved instance 2 of 15
+	Solved instance 3 of 15
+	Solved instance 4 of 15
+	Solved instance 5 of 15
+	Solved instance 6 of 15
+	Solved instance 7 of 15
+	Solved instance 8 of 15
+	Solved instance 9 of 15
+	Solved instance 10 of 15
+	Solved instance 11 of 15
+	Solved instance 12 of 15
+	Solved instance 13 of 15
+	Solved instance 14 of 15
+	Solved instance 15 of 15
+Starting at model 4 of 5
+	Original instance retrieved. Optimal growth rate: 0.396899383905
+	Solved instance 1 of 15
+	Solved instance 2 of 15
+	Solved instance 3 of 15
+	Solved instance 4 of 15
+	Solved instance 5 of 15
+	Solved instance 6 of 15
+	Solved instance 7 of 15
+	Solved instance 8 of 15
+	Solved instance 9 of 15
+	Solved instance 10 of 15
+	Solved instance 11 of 15
+	Solved instance 12 of 15
+	Solved instance 13 of 15
+	Solved instance 14 of 15
+	Solved instance 15 of 15
+Starting at model 5 of 5
+	Original instance retrieved. Optimal growth rate: 0.396894623784
+	Solved instance 1 of 15
+	Solved instance 2 of 15
+	Solved instance 3 of 15
+	Solved instance 4 of 15
+	Solved instance 5 of 15
+	Solved instance 6 of 15
+	Solved instance 7 of 15
+	Solved instance 8 of 15
+	Solved instance 9 of 15
+	Solved instance 10 of 15
+	Solved instance 11 of 15
+	Solved instance 12 of 15
+	Solved instance 13 of 15
+	Solved instance 14 of 15
+	Solved instance 15 of 15
+cobra/__init__.py:33 [1;31mFutureWarning[0m: Python 2 is reaching end of life (see https://www.python.org/dev/peps/pep-0373/) and many cobra dependencies have already dropped support. At the moment it *should* still work but we will no longer actively maintain Python 2 support.
+Model read successfully. Model is of type:<class 'cobra.core.model.Model'>
+Looking for fluxes
+	 found "acetate exchange" as "acetate exchange" at index 365
+	 found "carbon dioxide exchange" as "carbon dioxide exchange" at index 393
+	 found "ethanol exchange" as "ethanol exchange" at index 472
+	 found "D-glucose exchange (reversible)" as "D-glucose exchange (reversible)" at index 1836
+	 found "oxygen exchange (reversible)" as "oxygen exchange (reversible)" at index 2026
+All input fluxes found in COBRApy model
+
+Starting at model 1 of 5
+	Original instance retrieved. Optimal growth rate: 0.376827622348
+	Solved instance 1 of 15
+	Solved instance 2 of 15
+	Solved instance 3 of 15
+	Solved instance 4 of 15
+	Solved instance 5 of 15
+	Solved instance 6 of 15
+	Solved instance 7 of 15
+	Solved instance 8 of 15
+	Solved instance 9 of 15
+	Solved instance 10 of 15
+	Solved instance 11 of 15
+	Solved instance 12 of 15
+	Solved instance 13 of 15
+	Solved instance 14 of 15
+	Solved instance 15 of 15
+Traceback (most recent call last):
+  File "CrabSims.py", line 372, in <module>
+    ax[0, i].title.set_text(lab[i], fontsize=7)
+TypeError: set_text() got an unexpected keyword argument 'fontsize'
+cobra/__init__.py:33 [1;31mFutureWarning[0m: Python 2 is reaching end of life (see https://www.python.org/dev/peps/pep-0373/) and many cobra dependencies have already dropped support. At the moment it *should* still work but we will no longer actively maintain Python 2 support.
+Model read successfully. Model is of type:<class 'cobra.core.model.Model'>
+Looking for fluxes
+	 found "acetate exchange" as "acetate exchange" at index 365
+	 found "carbon dioxide exchange" as "carbon dioxide exchange" at index 393
+	 found "ethanol exchange" as "ethanol exchange" at index 472
+	 found "D-glucose exchange (reversible)" as "D-glucose exchange (reversible)" at index 1836
+	 found "oxygen exchange (reversible)" as "oxygen exchange (reversible)" at index 2026
+All input fluxes found in COBRApy model
+
+Starting at model 1 of 5
+	Original instance retrieved. Optimal growth rate: 0.376827622348
+	Solved instance 1 of 15
+	Solved instance 2 of 15
+	Solved instance 3 of 15
+	Solved instance 4 of 15
+	Solved instance 5 of 15
+	Solved instance 6 of 15
+	Solved instance 7 of 15
+	Solved instance 8 of 15
+	Solved instance 9 of 15
+	Solved instance 10 of 15
+	Solved instance 11 of 15
+	Solved instance 12 of 15
+	Solved instance 13 of 15
+	Solved instance 14 of 15
+	Solved instance 15 of 15
+Traceback (most recent call last):
+  File "CrabSims.py", line 372, in <module>
+    ax[0, i].title.set_text(lab[i], fontdict={'fontsize': '3'})
+TypeError: set_text() got an unexpected keyword argument 'fontdict'
+cobra/__init__.py:33 [1;31mFutureWarning[0m: Python 2 is reaching end of life (see https://www.python.org/dev/peps/pep-0373/) and many cobra dependencies have already dropped support. At the moment it *should* still work but we will no longer actively maintain Python 2 support.
+Model read successfully. Model is of type:<class 'cobra.core.model.Model'>
+Looking for fluxes
+	 found "acetate exchange" as "acetate exchange" at index 365
+	 found "carbon dioxide exchange" as "carbon dioxide exchange" at index 393
+	 found "ethanol exchange" as "ethanol exchange" at index 472
+	 found "D-glucose exchange (reversible)" as "D-glucose exchange (reversible)" at index 1836
+	 found "oxygen exchange (reversible)" as "oxygen exchange (reversible)" at index 2026
+All input fluxes found in COBRApy model
+
+Starting at model 1 of 5
+	Original instance retrieved. Optimal growth rate: 0.376827622348
+	Solved instance 1 of 15
+	Solved instance 2 of 15
+	Solved instance 3 of 15
+	Solved instance 4 of 15
+	Solved instance 5 of 15
+	Solved instance 6 of 15
+	Solved instance 7 of 15
+	Solved instance 8 of 15
+	Solved instance 9 of 15
+	Solved instance 10 of 15
+	Solved instance 11 of 15
+	Solved instance 12 of 15
+	Solved instance 13 of 15
+	Solved instance 14 of 15
+	Solved instance 15 of 15
+Starting at model 2 of 5
+	Original instance retrieved. Optimal growth rate: 0.345727820266
+	Solved instance 1 of 15
+	Solved instance 2 of 15
+	Solved instance 3 of 15
+	Solved instance 4 of 15
+	Solved instance 5 of 15
+	Solved instance 6 of 15
+	Solved instance 7 of 15
+	Solved instance 8 of 15
+	Solved instance 9 of 15
+	Solved instance 10 of 15
+	Solved instance 11 of 15
+	Solved instance 12 of 15
+	Solved instance 13 of 15
+	Solved instance 14 of 15
+	Solved instance 15 of 15
+Starting at model 3 of 5
+	Original instance retrieved. Optimal growth rate: 0.396902543376
+	Solved instance 1 of 15
+	Solved instance 2 of 15
+	Solved instance 3 of 15
+	Solved instance 4 of 15
+	Solved instance 5 of 15
+	Solved instance 6 of 15
+	Solved instance 7 of 15
+	Solved instance 8 of 15
+	Solved instance 9 of 15
+	Solved instance 10 of 15
+	Solved instance 11 of 15
+	Solved instance 12 of 15
+	Solved instance 13 of 15
+	Solved instance 14 of 15
+	Solved instance 15 of 15
+Starting at model 4 of 5
+	Original instance retrieved. Optimal growth rate: 0.396899383905
+	Solved instance 1 of 15
+	Solved instance 2 of 15
+	Solved instance 3 of 15
+	Solved instance 4 of 15
+	Solved instance 5 of 15
+	Solved instance 6 of 15
+	Solved instance 7 of 15
+	Solved instance 8 of 15
+	Solved instance 9 of 15
+	Solved instance 10 of 15
+	Solved instance 11 of 15
+	Solved instance 12 of 15
+	Solved instance 13 of 15
+	Solved instance 14 of 15
+	Solved instance 15 of 15
+Starting at model 5 of 5
+	Original instance retrieved. Optimal growth rate: 0.396894623784
+	Solved instance 1 of 15
+	Solved instance 2 of 15
+	Solved instance 3 of 15
+	Solved instance 4 of 15
+	Solved instance 5 of 15
+	Solved instance 6 of 15
+	Solved instance 7 of 15
+	Solved instance 8 of 15
+	Solved instance 9 of 15
+	Solved instance 10 of 15
+	Solved instance 11 of 15
+	Solved instance 12 of 15
+	Solved instance 13 of 15
+	Solved instance 14 of 15
+	Solved instance 15 of 15
+cobra/__init__.py:33 [1;31mFutureWarning[0m: Python 2 is reaching end of life (see https://www.python.org/dev/peps/pep-0373/) and many cobra dependencies have already dropped support. At the moment it *should* still work but we will no longer actively maintain Python 2 support.
+Model read successfully. Model is of type:<class 'cobra.core.model.Model'>
+Looking for fluxes
+	 found "acetate exchange" as "acetate exchange" at index 365
+	 found "carbon dioxide exchange" as "carbon dioxide exchange" at index 393
+	 found "ethanol exchange" as "ethanol exchange" at index 472
+	 found "D-glucose exchange (reversible)" as "D-glucose exchange (reversible)" at index 1836
+	 found "oxygen exchange (reversible)" as "oxygen exchange (reversible)" at index 2026
+All input fluxes found in COBRApy model
+
+Starting at model 1 of 5
+	Original instance retrieved. Optimal growth rate: 0.376827622348
+	Solved instance 1 of 15
+	Solved instance 2 of 15
+	Solved instance 3 of 15
+	Solved instance 4 of 15
+	Solved instance 5 of 15
+	Solved instance 6 of 15
+	Solved instance 7 of 15
+	Solved instance 8 of 15
+	Solved instance 9 of 15
+	Solved instance 10 of 15
+	Solved instance 11 of 15
+	Solved instance 12 of 15
+	Solved instance 13 of 15
+	Solved instance 14 of 15
+	Solved instance 15 of 15
+Starting at model 2 of 5
+	Original instance retrieved. Optimal growth rate: 0.345727820266
+	Solved instance 1 of 15
+	Solved instance 2 of 15
+	Solved instance 3 of 15
+	Solved instance 4 of 15
+	Solved instance 5 of 15
+	Solved instance 6 of 15
+	Solved instance 7 of 15
+	Solved instance 8 of 15
+	Solved instance 9 of 15
+	Solved instance 10 of 15
+	Solved instance 11 of 15
+	Solved instance 12 of 15
+	Solved instance 13 of 15
+	Solved instance 14 of 15
+	Solved instance 15 of 15
+Starting at model 3 of 5
+	Original instance retrieved. Optimal growth rate: 0.396902543376
+	Solved instance 1 of 15
+	Solved instance 2 of 15
+	Solved instance 3 of 15
+	Solved instance 4 of 15
+	Solved instance 5 of 15
+	Solved instance 6 of 15
+	Solved instance 7 of 15
+	Solved instance 8 of 15
+	Solved instance 9 of 15
+	Solved instance 10 of 15
+	Solved instance 11 of 15
+	Solved instance 12 of 15
+	Solved instance 13 of 15
+	Solved instance 14 of 15
+	Solved instance 15 of 15
+Starting at model 4 of 5
+	Original instance retrieved. Optimal growth rate: 0.396899383905
+	Solved instance 1 of 15
+	Solved instance 2 of 15
+	Solved instance 3 of 15
+	Solved instance 4 of 15
+	Solved instance 5 of 15
+	Solved instance 6 of 15
+	Solved instance 7 of 15
+	Solved instance 8 of 15
+	Solved instance 9 of 15
+	Solved instance 10 of 15
+	Solved instance 11 of 15
+	Solved instance 12 of 15
+	Solved instance 13 of 15
+	Solved instance 14 of 15
+	Solved instance 15 of 15
+Starting at model 5 of 5
+	Original instance retrieved. Optimal growth rate: 0.396894623784
+	Solved instance 1 of 15
+	Solved instance 2 of 15
+	Solved instance 3 of 15
+	Solved instance 4 of 15
+	Solved instance 5 of 15
+	Solved instance 6 of 15
+	Solved instance 7 of 15
+	Solved instance 8 of 15
+	Solved instance 9 of 15
+	Solved instance 10 of 15
+	Solved instance 11 of 15
+	Solved instance 12 of 15
+	Solved instance 13 of 15
+	Solved instance 14 of 15
+	Solved instance 15 of 15
+cobra/__init__.py:33 [1;31mFutureWarning[0m: Python 2 is reaching end of life (see https://www.python.org/dev/peps/pep-0373/) and many cobra dependencies have already dropped support. At the moment it *should* still work but we will no longer actively maintain Python 2 support.
+Model read successfully. Model is of type:<class 'cobra.core.model.Model'>
+Looking for fluxes
+	 found "acetate exchange" as "acetate exchange" at index 365
+	 found "carbon dioxide exchange" as "carbon dioxide exchange" at index 393
+	 found "ethanol exchange" as "ethanol exchange" at index 472
+	 found "D-glucose exchange (reversible)" as "D-glucose exchange (reversible)" at index 1836
+	 found "oxygen exchange (reversible)" as "oxygen exchange (reversible)" at index 2026
+All input fluxes found in COBRApy model
+
+Starting at model 1 of 5
+	Original instance retrieved. Optimal growth rate: 0.376827622348
+	Solved instance 1 of 15
+	Solved instance 2 of 15
+	Solved instance 3 of 15
+	Solved instance 4 of 15
+	Solved instance 5 of 15
+	Solved instance 6 of 15
+	Solved instance 7 of 15
+	Solved instance 8 of 15
+	Solved instance 9 of 15
+	Solved instance 10 of 15
+	Solved instance 11 of 15
+	Solved instance 12 of 15
+	Solved instance 13 of 15
+	Solved instance 14 of 15
+	Solved instance 15 of 15
+Starting at model 2 of 5
+	Original instance retrieved. Optimal growth rate: 0.345727820266
+	Solved instance 1 of 15
+	Solved instance 2 of 15
+	Solved instance 3 of 15
+	Solved instance 4 of 15
+	Solved instance 5 of 15
+	Solved instance 6 of 15
+	Solved instance 7 of 15
+	Solved instance 8 of 15
+	Solved instance 9 of 15
+	Solved instance 10 of 15
+	Solved instance 11 of 15
+	Solved instance 12 of 15
+	Solved instance 13 of 15
+	Solved instance 14 of 15
+	Solved instance 15 of 15
+Starting at model 3 of 5
+	Original instance retrieved. Optimal growth rate: 0.396902543376
+	Solved instance 1 of 15
+	Solved instance 2 of 15
+	Solved instance 3 of 15
+	Solved instance 4 of 15
+	Solved instance 5 of 15
+	Solved instance 6 of 15
+	Solved instance 7 of 15
+	Solved instance 8 of 15
+	Solved instance 9 of 15
+	Solved instance 10 of 15
+	Solved instance 11 of 15
+	Solved instance 12 of 15
+	Solved instance 13 of 15
+	Solved instance 14 of 15
+	Solved instance 15 of 15
+Starting at model 4 of 5
+	Original instance retrieved. Optimal growth rate: 0.396899383905
+	Solved instance 1 of 15
+	Solved instance 2 of 15
+	Solved instance 3 of 15
+	Solved instance 4 of 15
+	Solved instance 5 of 15
+	Solved instance 6 of 15
+	Solved instance 7 of 15
+	Solved instance 8 of 15
+	Solved instance 9 of 15
+	Solved instance 10 of 15
+	Solved instance 11 of 15
+	Solved instance 12 of 15
+	Solved instance 13 of 15
+	Solved instance 14 of 15
+	Solved instance 15 of 15
+Starting at model 5 of 5
+	Original instance retrieved. Optimal growth rate: 0.396894623784
+	Solved instance 1 of 15
+	Solved instance 2 of 15
+	Solved instance 3 of 15
+	Solved instance 4 of 15
+	Solved instance 5 of 15
+	Solved instance 6 of 15
+	Solved instance 7 of 15
+	Solved instance 8 of 15
+	Solved instance 9 of 15
+	Solved instance 10 of 15
+	Solved instance 11 of 15
+	Solved instance 12 of 15
+	Solved instance 13 of 15
+	Solved instance 14 of 15
+	Solved instance 15 of 15
+cobra/__init__.py:33 [1;31mFutureWarning[0m: Python 2 is reaching end of life (see https://www.python.org/dev/peps/pep-0373/) and many cobra dependencies have already dropped support. At the moment it *should* still work but we will no longer actively maintain Python 2 support.
+Model read successfully. Model is of type:<class 'cobra.core.model.Model'>
+Looking for fluxes
+	 found "acetate exchange" as "acetate exchange" at index 365
+	 found "carbon dioxide exchange" as "carbon dioxide exchange" at index 393
+	 found "ethanol exchange" as "ethanol exchange" at index 472
+	 found "D-glucose exchange (reversible)" as "D-glucose exchange (reversible)" at index 1836
+	 found "oxygen exchange (reversible)" as "oxygen exchange (reversible)" at index 2026
+All input fluxes found in COBRApy model
+
+Starting at model 1 of 3
+	Original instance retrieved. Optimal growth rate: 0.376827622348
+	Solved instance 1 of 15
+	Solved instance 2 of 15
+	Solved instance 3 of 15
+	Solved instance 4 of 15
+	Solved instance 5 of 15
+	Solved instance 6 of 15
+	Solved instance 7 of 15
+	Solved instance 8 of 15
+	Solved instance 9 of 15
+	Solved instance 10 of 15
+	Solved instance 11 of 15
+	Solved instance 12 of 15
+	Solved instance 13 of 15
+	Solved instance 14 of 15
+	Solved instance 15 of 15
+Starting at model 2 of 3
+	Original instance retrieved. Optimal growth rate: 0.345727820266
+	Solved instance 1 of 15
+	Solved instance 2 of 15
+	Solved instance 3 of 15
+	Solved instance 4 of 15
+	Solved instance 5 of 15
+	Solved instance 6 of 15
+	Solved instance 7 of 15
+	Solved instance 8 of 15
+	Solved instance 9 of 15
+	Solved instance 10 of 15
+	Solved instance 11 of 15
+	Solved instance 12 of 15
+	Solved instance 13 of 15
+	Solved instance 14 of 15
+	Solved instance 15 of 15
+Starting at model 3 of 3
+	Original instance retrieved. Optimal growth rate: 0.396902543376
+	Solved instance 1 of 15
+	Solved instance 2 of 15
+	Solved instance 3 of 15
+	Solved instance 4 of 15
+	Solved instance 5 of 15
+	Solved instance 6 of 15
+	Solved instance 7 of 15
+	Solved instance 8 of 15
+	Solved instance 9 of 15
+	Solved instance 10 of 15
+	Solved instance 11 of 15
+	Solved instance 12 of 15
+	Solved instance 13 of 15
+	Solved instance 14 of 15
+	Solved instance 15 of 15
+cobra/__init__.py:33 [1;31mFutureWarning[0m: Python 2 is reaching end of life (see https://www.python.org/dev/peps/pep-0373/) and many cobra dependencies have already dropped support. At the moment it *should* still work but we will no longer actively maintain Python 2 support.
+Model read successfully. Model is of type:<class 'cobra.core.model.Model'>
+Looking for fluxes
+	 found "acetate exchange" as "acetate exchange" at index 365
+	 found "carbon dioxide exchange" as "carbon dioxide exchange" at index 393
+	 found "ethanol exchange" as "ethanol exchange" at index 472
+	 found "D-glucose exchange (reversible)" as "D-glucose exchange (reversible)" at index 1836
+	 found "oxygen exchange (reversible)" as "oxygen exchange (reversible)" at index 2026
+All input fluxes found in COBRApy model
+
+Starting at model 1 of 3
+	Original instance retrieved. Optimal growth rate: 0.376827622348
+	Solved instance 1 of 15
+	Solved instance 2 of 15
+	Solved instance 3 of 15
+	Solved instance 4 of 15
+	Solved instance 5 of 15
+	Solved instance 6 of 15
+	Solved instance 7 of 15
+	Solved instance 8 of 15
+	Solved instance 9 of 15
+	Solved instance 10 of 15
+	Solved instance 11 of 15
+	Solved instance 12 of 15
+	Solved instance 13 of 15
+	Solved instance 14 of 15
+	Solved instance 15 of 15
+Starting at model 2 of 3
+	Original instance retrieved. Optimal growth rate: 0.345727820266
+	Solved instance 1 of 15
+	Solved instance 2 of 15
+	Solved instance 3 of 15
+	Solved instance 4 of 15
+	Solved instance 5 of 15
+	Solved instance 6 of 15
+	Solved instance 7 of 15
+	Solved instance 8 of 15
+	Solved instance 9 of 15
+	Solved instance 10 of 15
+	Solved instance 11 of 15
+	Solved instance 12 of 15
+	Solved instance 13 of 15
+	Solved instance 14 of 15
+	Solved instance 15 of 15
+Starting at model 3 of 3
+	Original instance retrieved. Optimal growth rate: 0.396902543376
+	Solved instance 1 of 15
+	Solved instance 2 of 15
+	Solved instance 3 of 15
+	Solved instance 4 of 15
+	Solved instance 5 of 15
+	Solved instance 6 of 15
+	Solved instance 7 of 15
+	Solved instance 8 of 15
+	Solved instance 9 of 15
+	Solved instance 10 of 15
+	Solved instance 11 of 15
+	Solved instance 12 of 15
+	Solved instance 13 of 15
+	Solved instance 14 of 15
+	Solved instance 15 of 15
+cobra/__init__.py:33 [1;31mFutureWarning[0m: Python 2 is reaching end of life (see https://www.python.org/dev/peps/pep-0373/) and many cobra dependencies have already dropped support. At the moment it *should* still work but we will no longer actively maintain Python 2 support.
+Model read successfully. Model is of type:<class 'cobra.core.model.Model'>
+Looking for fluxes
+	 found "acetate exchange" as "acetate exchange" at index 365
+	 found "carbon dioxide exchange" as "carbon dioxide exchange" at index 393
+	 found "ethanol exchange" as "ethanol exchange" at index 472
+	 found "D-glucose exchange (reversible)" as "D-glucose exchange (reversible)" at index 1836
+	 found "oxygen exchange (reversible)" as "oxygen exchange (reversible)" at index 2026
+All input fluxes found in COBRApy model
+
+Starting at model 1 of 7
+	Original instance retrieved. Optimal growth rate: 0.376827622348
+	Solved instance 1 of 15
+	Solved instance 2 of 15
+	Solved instance 3 of 15
+	Solved instance 4 of 15
+	Solved instance 5 of 15
+	Solved instance 6 of 15
+	Solved instance 7 of 15
+	Solved instance 8 of 15
+	Solved instance 9 of 15
+	Solved instance 10 of 15
+	Solved instance 11 of 15
+	Solved instance 12 of 15
+	Solved instance 13 of 15
+	Solved instance 14 of 15
+	Solved instance 15 of 15
+Starting at model 2 of 7
+	Original instance retrieved. Optimal growth rate: 0.345727820266
+	Solved instance 1 of 15
+	Solved instance 2 of 15
+	Solved instance 3 of 15
+	Solved instance 4 of 15
+	Solved instance 5 of 15
+	Solved instance 6 of 15
+	Solved instance 7 of 15
+	Solved instance 8 of 15
+	Solved instance 9 of 15
+	Solved instance 10 of 15
+	Solved instance 11 of 15
+	Solved instance 12 of 15
+	Solved instance 13 of 15
+	Solved instance 14 of 15
+	Solved instance 15 of 15
+Starting at model 3 of 7
+	Original instance retrieved. Optimal growth rate: 0.396902543376
+	Solved instance 1 of 15
+	Solved instance 2 of 15
+	Solved instance 3 of 15
+	Solved instance 4 of 15
+	Solved instance 5 of 15
+	Solved instance 6 of 15
+	Solved instance 7 of 15
+	Solved instance 8 of 15
+	Solved instance 9 of 15
+	Solved instance 10 of 15
+	Solved instance 11 of 15
+	Solved instance 12 of 15
+	Solved instance 13 of 15
+	Solved instance 14 of 15
+	Solved instance 15 of 15
+Starting at model 4 of 7
+	Original instance retrieved. Optimal growth rate: 0.396899383905
+	Solved instance 1 of 15
+	Solved instance 2 of 15
+	Solved instance 3 of 15
+	Solved instance 4 of 15
+	Solved instance 5 of 15
+	Solved instance 6 of 15
+	Solved instance 7 of 15
+	Solved instance 8 of 15
+	Solved instance 9 of 15
+	Solved instance 10 of 15
+	Solved instance 11 of 15
+	Solved instance 12 of 15
+	Solved instance 13 of 15
+	Solved instance 14 of 15
+	Solved instance 15 of 15
+Starting at model 5 of 7
+	Original instance retrieved. Optimal growth rate: 0.396894623784
+	Solved instance 1 of 15
+	Solved instance 2 of 15
+	Solved instance 3 of 15
+	Solved instance 4 of 15
+	Solved instance 5 of 15
+	Solved instance 6 of 15
+	Solved instance 7 of 15
+	Solved instance 8 of 15
+	Solved instance 9 of 15
+	Solved instance 10 of 15
+	Solved instance 11 of 15
+	Solved instance 12 of 15
+	Solved instance 13 of 15
+	Solved instance 14 of 15
+	Solved instance 15 of 15
+Starting at model 6 of 7
+	Original instance retrieved. Optimal growth rate: 0.396902095854
+	Solved instance 1 of 15
+	Solved instance 2 of 15
+	Solved instance 3 of 15
+	Solved instance 4 of 15
+	Solved instance 5 of 15
+	Solved instance 6 of 15
+	Solved instance 7 of 15
+	Solved instance 8 of 15
+	Solved instance 9 of 15
+	Solved instance 10 of 15
+	Solved instance 11 of 15
+	Solved instance 12 of 15
+	Solved instance 13 of 15
+	Solved instance 14 of 15
+	Solved instance 15 of 15
+Starting at model 7 of 7
+	Original instance retrieved. Optimal growth rate: 0.396903644123
+	Solved instance 1 of 15
+	Solved instance 2 of 15
+	Solved instance 3 of 15
+	Solved instance 4 of 15
+	Solved instance 5 of 15
+	Solved instance 6 of 15
+	Solved instance 7 of 15
+	Solved instance 8 of 15
+	Solved instance 9 of 15
+	Solved instance 10 of 15
+	Solved instance 11 of 15
+	Solved instance 12 of 15
+	Solved instance 13 of 15
+	Solved instance 14 of 15
+	Solved instance 15 of 15
+
+
+Done.
+cobra/__init__.py:33 [1;31mFutureWarning[0m: Python 2 is reaching end of life (see https://www.python.org/dev/peps/pep-0373/) and many cobra dependencies have already dropped support. At the moment it *should* still work but we will no longer actively maintain Python 2 support.
+Model read successfully. Model is of type:<class 'cobra.core.model.Model'>
+Looking for fluxes
+	 found "acetate exchange" as "acetate exchange" at index 365
+	 found "carbon dioxide exchange" as "carbon dioxide exchange" at index 393
+	 found "ethanol exchange" as "ethanol exchange" at index 472
+	 found "D-glucose exchange (reversible)" as "D-glucose exchange (reversible)" at index 1836
+	 found "oxygen exchange (reversible)" as "oxygen exchange (reversible)" at index 2026
+All input fluxes found in COBRApy model
+
+Starting at model 1 of 7
+	Original instance retrieved. Optimal growth rate: 0.376827622348
+	Solved instance 1 of 15
+	Solved instance 2 of 15
+	Solved instance 3 of 15
+	Solved instance 4 of 15
+	Solved instance 5 of 15
+	Solved instance 6 of 15
+	Solved instance 7 of 15
+	Solved instance 8 of 15
+	Solved instance 9 of 15
+	Solved instance 10 of 15
+	Solved instance 11 of 15
+	Solved instance 12 of 15
+	Solved instance 13 of 15
+	Solved instance 14 of 15
+	Solved instance 15 of 15
+Starting at model 2 of 7
+	Original instance retrieved. Optimal growth rate: 0.345727820266
+	Solved instance 1 of 15
+	Solved instance 2 of 15
+	Solved instance 3 of 15
+	Solved instance 4 of 15
+	Solved instance 5 of 15
+	Solved instance 6 of 15
+	Solved instance 7 of 15
+	Solved instance 8 of 15
+	Solved instance 9 of 15
+	Solved instance 10 of 15
+	Solved instance 11 of 15
+	Solved instance 12 of 15
+	Solved instance 13 of 15
+	Solved instance 14 of 15
+	Solved instance 15 of 15
+Starting at model 3 of 7
+	Original instance retrieved. Optimal growth rate: 0.396902543376
+	Solved instance 1 of 15
+	Solved instance 2 of 15
+	Solved instance 3 of 15
+	Solved instance 4 of 15
+	Solved instance 5 of 15
+	Solved instance 6 of 15
+	Solved instance 7 of 15
+	Solved instance 8 of 15
+	Solved instance 9 of 15
+	Solved instance 10 of 15
+	Solved instance 11 of 15
+	Solved instance 12 of 15
+	Solved instance 13 of 15
+	Solved instance 14 of 15
+	Solved instance 15 of 15
+Starting at model 4 of 7
+	Original instance retrieved. Optimal growth rate: 0.396899383905
+	Solved instance 1 of 15
+	Solved instance 2 of 15
+	Solved instance 3 of 15
+	Solved instance 4 of 15
+	Solved instance 5 of 15
+	Solved instance 6 of 15
+	Solved instance 7 of 15
+	Solved instance 8 of 15
+	Solved instance 9 of 15
+	Solved instance 10 of 15
+	Solved instance 11 of 15
+	Solved instance 12 of 15
+	Solved instance 13 of 15
+	Solved instance 14 of 15
+	Solved instance 15 of 15
+Starting at model 5 of 7
+	Original instance retrieved. Optimal growth rate: 0.396894623784
+	Solved instance 1 of 15
+	Solved instance 2 of 15
+	Solved instance 3 of 15
+	Solved instance 4 of 15
+	Solved instance 5 of 15
+	Solved instance 6 of 15
+	Solved instance 7 of 15
+	Solved instance 8 of 15
+	Solved instance 9 of 15
+	Solved instance 10 of 15
+	Solved instance 11 of 15
+	Solved instance 12 of 15
+	Solved instance 13 of 15
+	Solved instance 14 of 15
+	Solved instance 15 of 15
+Starting at model 6 of 7
+	Original instance retrieved. Optimal growth rate: 0.396902095854
+	Solved instance 1 of 15
+	Solved instance 2 of 15
+	Solved instance 3 of 15
+	Solved instance 4 of 15
+	Solved instance 5 of 15
+	Solved instance 6 of 15
+	Solved instance 7 of 15
+	Solved instance 8 of 15
+	Solved instance 9 of 15
+	Solved instance 10 of 15
+	Solved instance 11 of 15
+	Solved instance 12 of 15
+	Solved instance 13 of 15
+	Solved instance 14 of 15
+	Solved instance 15 of 15
+Starting at model 7 of 7
+	Original instance retrieved. Optimal growth rate: 0.396903644123
+	Solved instance 1 of 15
+	Solved instance 2 of 15
+	Solved instance 3 of 15
+	Solved instance 4 of 15
+	Solved instance 5 of 15
+	Solved instance 6 of 15
+	Solved instance 7 of 15
+	Solved instance 8 of 15
+	Solved instance 9 of 15
+	Solved instance 10 of 15
+	Solved instance 11 of 15
+	Solved instance 12 of 15
+	Solved instance 13 of 15
+	Solved instance 14 of 15
+	Solved instance 15 of 15
+
+
+Done.
+cobra/__init__.py:33 [1;31mFutureWarning[0m: Python 2 is reaching end of life (see https://www.python.org/dev/peps/pep-0373/) and many cobra dependencies have already dropped support. At the moment it *should* still work but we will no longer actively maintain Python 2 support.
+Model read successfully. Model is of type:<class 'cobra.core.model.Model'>
+Looking for fluxes
+	 found "acetate exchange" as "acetate exchange" at index 365
+	 found "carbon dioxide exchange" as "carbon dioxide exchange" at index 393
+	 found "ethanol exchange" as "ethanol exchange" at index 472
+	 found "D-glucose exchange (reversible)" as "D-glucose exchange (reversible)" at index 1836
+	 found "oxygen exchange (reversible)" as "oxygen exchange (reversible)" at index 2026
+All input fluxes found in COBRApy model
+
+Starting at model 1 of 5
+	Original instance retrieved. Optimal growth rate: 0.376827622348
+	Solved instance 1 of 15
+	Solved instance 2 of 15
+	Solved instance 3 of 15
+	Solved instance 4 of 15
+	Solved instance 5 of 15
+	Solved instance 6 of 15
+	Solved instance 7 of 15
+	Solved instance 8 of 15
+	Solved instance 9 of 15
+	Solved instance 10 of 15
+	Solved instance 11 of 15
+	Solved instance 12 of 15
+	Solved instance 13 of 15
+	Solved instance 14 of 15
+	Solved instance 15 of 15
+Starting at model 2 of 5
+	Original instance retrieved. Optimal growth rate: 0.345727820266
+	Solved instance 1 of 15
+	Solved instance 2 of 15
+	Solved instance 3 of 15
+	Solved instance 4 of 15
+	Solved instance 5 of 15
+	Solved instance 6 of 15
+	Solved instance 7 of 15
+	Solved instance 8 of 15
+	Solved instance 9 of 15
+	Solved instance 10 of 15
+	Solved instance 11 of 15
+	Solved instance 12 of 15
+	Solved instance 13 of 15
+	Solved instance 14 of 15
+	Solved instance 15 of 15
+Starting at model 3 of 5
+	Original instance retrieved. Optimal growth rate: 0.396902543376
+	Solved instance 1 of 15
+	Solved instance 2 of 15
+	Solved instance 3 of 15
+	Solved instance 4 of 15
+	Solved instance 5 of 15
+	Solved instance 6 of 15
+	Solved instance 7 of 15
+	Solved instance 8 of 15
+	Solved instance 9 of 15
+	Solved instance 10 of 15
+	Solved instance 11 of 15
+	Solved instance 12 of 15
+	Solved instance 13 of 15
+	Solved instance 14 of 15
+	Solved instance 15 of 15
+Starting at model 4 of 5
+	Original instance retrieved. Optimal growth rate: 0.396899383905
+	Solved instance 1 of 15
+	Solved instance 2 of 15
+	Solved instance 3 of 15
+	Solved instance 4 of 15
+	Solved instance 5 of 15
+	Solved instance 6 of 15
+	Solved instance 7 of 15
+	Solved instance 8 of 15
+	Solved instance 9 of 15
+	Solved instance 10 of 15
+	Solved instance 11 of 15
+	Solved instance 12 of 15
+	Solved instance 13 of 15
+	Solved instance 14 of 15
+	Solved instance 15 of 15
+Starting at model 5 of 5
+	Original instance retrieved. Optimal growth rate: 0.396894623784
+	Solved instance 1 of 15
+	Solved instance 2 of 15
+	Solved instance 3 of 15
+	Solved instance 4 of 15
+	Solved instance 5 of 15
+	Solved instance 6 of 15
+	Solved instance 7 of 15
+	Solved instance 8 of 15
+	Solved instance 9 of 15
+	Solved instance 10 of 15
+	Solved instance 11 of 15
+	Solved instance 12 of 15
+	Solved instance 13 of 15
+	Solved instance 14 of 15
+	Solved instance 15 of 15
+
+
+Done.
+cobra/__init__.py:33 [1;31mFutureWarning[0m: Python 2 is reaching end of life (see https://www.python.org/dev/peps/pep-0373/) and many cobra dependencies have already dropped support. At the moment it *should* still work but we will no longer actively maintain Python 2 support.
+Model read successfully. Model is of type:<class 'cobra.core.model.Model'>
+Looking for fluxes
+	 found "acetate exchange" as "acetate exchange" at index 365
+	 found "carbon dioxide exchange" as "carbon dioxide exchange" at index 393
+	 found "ethanol exchange" as "ethanol exchange" at index 472
+	 found "D-glucose exchange (reversible)" as "D-glucose exchange (reversible)" at index 1836
+	 found "oxygen exchange (reversible)" as "oxygen exchange (reversible)" at index 2026
+All input fluxes found in COBRApy model
+
+Starting at model 1 of 5
+	Original instance retrieved. Optimal growth rate: 0.396902095854
+	Solved instance 1 of 15
+	Solved instance 2 of 15
+	Solved instance 3 of 15
+	Solved instance 4 of 15
+	Solved instance 5 of 15
+	Solved instance 6 of 15
+	Solved instance 7 of 15
+	Solved instance 8 of 15
+	Solved instance 9 of 15
+	Solved instance 10 of 15
+	Solved instance 11 of 15
+	Solved instance 12 of 15
+	Solved instance 13 of 15
+	Solved instance 14 of 15
+	Solved instance 15 of 15
+Starting at model 2 of 5
+	Original instance retrieved. Optimal growth rate: 0.396903644123
+	Solved instance 1 of 15
+	Solved instance 2 of 15
+	Solved instance 3 of 15
+	Solved instance 4 of 15
+	Solved instance 5 of 15
+	Solved instance 6 of 15
+	Solved instance 7 of 15
+	Solved instance 8 of 15
+	Solved instance 9 of 15
+	Solved instance 10 of 15
+	Solved instance 11 of 15
+	Solved instance 12 of 15
+	Solved instance 13 of 15
+	Solved instance 14 of 15
+	Solved instance 15 of 15
+Starting at model 3 of 5
+	Original instance retrieved. Optimal growth rate: 0.366976620261
+	Solved instance 1 of 15
+	Solved instance 2 of 15
+	Solved instance 3 of 15
+	Solved instance 4 of 15
+	Solved instance 5 of 15
+	Solved instance 6 of 15
+	Solved instance 7 of 15
+	Solved instance 8 of 15
+	Solved instance 9 of 15
+	Solved instance 10 of 15
+	Solved instance 11 of 15
+	Solved instance 12 of 15
+	Solved instance 13 of 15
+	Solved instance 14 of 15
+	Solved instance 15 of 15
+Starting at model 4 of 5
+	Original instance retrieved. Optimal growth rate: 0.350060610176
+	Solved instance 1 of 15
+	Solved instance 2 of 15
+	Solved instance 3 of 15
+	Solved instance 4 of 15
+	Solved instance 5 of 15
+	Solved instance 6 of 15
+	Solved instance 7 of 15
+	Solved instance 8 of 15
+	Solved instance 9 of 15
+	Solved instance 10 of 15
+	Solved instance 11 of 15
+	Solved instance 12 of 15
+	Solved instance 13 of 15
+	Solved instance 14 of 15
+	Solved instance 15 of 15
+Starting at model 5 of 5
+	Original instance retrieved. Optimal growth rate: 0.348335187274
+	Solved instance 1 of 15
+	Solved instance 2 of 15
+	Solved instance 3 of 15
+	Solved instance 4 of 15
+	Solved instance 5 of 15
+	Solved instance 6 of 15
+	Solved instance 7 of 15
+	Solved instance 8 of 15
+	Solved instance 9 of 15
+	Solved instance 10 of 15
+	Solved instance 11 of 15
+	Solved instance 12 of 15
+	Solved instance 13 of 15
+	Solved instance 14 of 15
+	Solved instance 15 of 15
+
+Done.
+cobra/__init__.py:33 [1;31mFutureWarning[0m: Python 2 is reaching end of life (see https://www.python.org/dev/peps/pep-0373/) and many cobra dependencies have already dropped support. At the moment it *should* still work but we will no longer actively maintain Python 2 support.
+Model read successfully. Model is of type:<class 'cobra.core.model.Model'>
+Looking for fluxes
+	 found "acetate exchange" as "acetate exchange" at index 365
+	 found "carbon dioxide exchange" as "carbon dioxide exchange" at index 393
+	 found "ethanol exchange" as "ethanol exchange" at index 472
+	 found "D-glucose exchange (reversible)" as "D-glucose exchange (reversible)" at index 1836
+	 found "oxygen exchange (reversible)" as "oxygen exchange (reversible)" at index 2026
+All input fluxes found in COBRApy model
+
+Traceback (most recent call last):
+  File "CrabSims.py", line 324, in <module>
+    fig.xticks(fontsize=6)
+AttributeError: 'Figure' object has no attribute 'xticks'
+cobra/__init__.py:33 [1;31mFutureWarning[0m: Python 2 is reaching end of life (see https://www.python.org/dev/peps/pep-0373/) and many cobra dependencies have already dropped support. At the moment it *should* still work but we will no longer actively maintain Python 2 support.
+Model read successfully. Model is of type:<class 'cobra.core.model.Model'>
+Looking for fluxes
+	 found "acetate exchange" as "acetate exchange" at index 365
+	 found "carbon dioxide exchange" as "carbon dioxide exchange" at index 393
+	 found "ethanol exchange" as "ethanol exchange" at index 472
+	 found "D-glucose exchange (reversible)" as "D-glucose exchange (reversible)" at index 1836
+	 found "oxygen exchange (reversible)" as "oxygen exchange (reversible)" at index 2026
+All input fluxes found in COBRApy model
+
+Starting at model 1 of 5
+	Original instance retrieved. Optimal growth rate: 0.396902543376
+	Solved instance 1 of 15
+	Solved instance 2 of 15
+	Solved instance 3 of 15
+	Solved instance 4 of 15
+	Solved instance 5 of 15
+	Solved instance 6 of 15
+	Solved instance 7 of 15
+	Solved instance 8 of 15
+	Solved instance 9 of 15
+	Solved instance 10 of 15
+	Solved instance 11 of 15
+	Solved instance 12 of 15
+	Solved instance 13 of 15
+	Solved instance 14 of 15
+	Solved instance 15 of 15
+Starting at model 2 of 5
+	Original instance retrieved. Optimal growth rate: 0.396899383905
+	Solved instance 1 of 15
+	Solved instance 2 of 15
+	Solved instance 3 of 15
+	Solved instance 4 of 15
+	Solved instance 5 of 15
+	Solved instance 6 of 15
+	Solved instance 7 of 15
+	Solved instance 8 of 15
+	Solved instance 9 of 15
+	Solved instance 10 of 15
+	Solved instance 11 of 15
+	Solved instance 12 of 15
+	Solved instance 13 of 15
+	Solved instance 14 of 15
+	Solved instance 15 of 15
+Starting at model 3 of 5
+	Original instance retrieved. Optimal growth rate: 0.396894623784
+	Solved instance 1 of 15
+	Solved instance 2 of 15
+	Solved instance 3 of 15
+	Solved instance 4 of 15
+	Solved instance 5 of 15
+	Solved instance 6 of 15
+	Solved instance 7 of 15
+	Solved instance 8 of 15
+	Solved instance 9 of 15
+	Solved instance 10 of 15
+	Solved instance 11 of 15
+	Solved instance 12 of 15
+	Solved instance 13 of 15
+	Solved instance 14 of 15
+	Solved instance 15 of 15
+Starting at model 4 of 5
+	Original instance retrieved. Optimal growth rate: 0.396902095854
+	Solved instance 1 of 15
+	Solved instance 2 of 15
+	Solved instance 3 of 15
+	Solved instance 4 of 15
+	Solved instance 5 of 15
+	Solved instance 6 of 15
+	Solved instance 7 of 15
+	Solved instance 8 of 15
+	Solved instance 9 of 15
+	Solved instance 10 of 15
+	Solved instance 11 of 15
+	Solved instance 12 of 15
+	Solved instance 13 of 15
+	Solved instance 14 of 15
+	Solved instance 15 of 15
+Starting at model 5 of 5
+	Original instance retrieved. Optimal growth rate: 0.396903644123
+	Solved instance 1 of 15
+	Solved instance 2 of 15
+	Solved instance 3 of 15
+	Solved instance 4 of 15
+	Solved instance 5 of 15
+	Solved instance 6 of 15
+	Solved instance 7 of 15
+	Solved instance 8 of 15
+	Solved instance 9 of 15
+	Solved instance 10 of 15
+	Solved instance 11 of 15
+	Solved instance 12 of 15
+	Solved instance 13 of 15
+	Solved instance 14 of 15
+	Solved instance 15 of 15
+
+Done.

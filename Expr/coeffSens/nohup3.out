@@ -1,0 +1,2051 @@
+nohup: ignoring input
+cobra/__init__.py:33 [1;31mFutureWarning[0m: Python 2 is reaching end of life (see https://www.python.org/dev/peps/pep-0373/) and many cobra dependencies have already dropped support. At the moment it *should* still work but we will no longer actively maintain Python 2 support.
+Model read successfully. Model is of type:<class 'cobra.core.model.Model'>
+Reference growth rate = 0.376824850684 g/gDW
+Computing lethal genes for certain model
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+
+Looking for biomass components
+	 found "pseudoreaction" as "lipid pseudoreaction - merge" at index 745
+	 found "pseudoreaction" as "biomass pseudoreaction" at index 1221
+	 found "pseudoreaction" as "protein pseudoreaction" at index 1223
+	 found "pseudoreaction" as "carbohydrate pseudoreaction" at index 1224
+	 found "pseudoreaction" as "RNA pseudoreaction" at index 1225
+	 found "pseudoreaction" as "DNA pseudoreaction" at index 1226
+	 found "pseudoreaction" as "lipid backbone pseudoreaction" at index 1238
+	 found "pseudoreaction" as "lipid chain pseudoreaction" at index 1239
+	 found "pseudoreaction" as "cofactor pseudoreaction" at index 1595
+	 found "pseudoreaction" as "ion pseudoreaction" at index 1596
+Done searching biomass components
+
+Commencing iteration through biomass components
+
+
+Iterating through reaction: lipid pseudoreaction - merge
+
+
+Iterating through reaction: biomass pseudoreaction
+Metabolite ADP [cytoplasm]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.377211641698
+Metabolite ATP [cytoplasm]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.377214857567
+Metabolite H+ [cytoplasm]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.376824850394
+Metabolite H2O [cytoplasm]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.376824846616
+Metabolite phosphate [cytoplasm]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.376824851303
+
+
+Iterating through reaction: protein pseudoreaction
+Metabolite Ala-tRNA(Ala) [cytoplasm]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.376824848205
+Metabolite Arg-tRNA(Arg) [cytoplasm]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.376824844676
+Metabolite Asn-tRNA(Asn) [cytoplasm]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.376824847249
+Metabolite Asp-tRNA(Asp) [cytoplasm]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.376824850943
+Metabolite Cys-tRNA(Cys) [cytoplasm]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.376824850529
+Metabolite Gln-tRNA(Gln) [cytoplasm]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.376824849972
+Metabolite Glu-tRNA(Glu) [cytoplasm]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.376824847398
+Metabolite Gly-tRNA(Gly) [cytoplasm]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.376824844512
+Metabolite His-tRNA(His) [cytoplasm]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.376824847215
+Metabolite Ile-tRNA(Ile) [cytoplasm]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.37682484922
+Metabolite Leu-tRNA(Leu) [cytoplasm]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.376824850843
+Metabolite Lys-tRNA(Lys) [cytoplasm]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.376824850774
+Metabolite Met-tRNA(Met) [cytoplasm]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.376824848321
+Metabolite Phe-tRNA(Phe) [cytoplasm]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.376824848188
+Metabolite Pro-tRNA(Pro) [cytoplasm]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.376824847538
+Metabolite Ser-tRNA(Ser) [cytoplasm]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.376824849875
+Metabolite Thr-tRNA(Thr) [cytoplasm]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.376824851167
+Metabolite Trp-tRNA(Trp) [cytoplasm]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.376824851167
+Metabolite Tyr-tRNA(Tyr) [cytoplasm]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.376824851167
+Metabolite Val-tRNA(Val) [cytoplasm]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.376824851793
+Metabolite tRNA(Ala) [cytoplasm]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.376824851636
+Metabolite tRNA(Arg) [cytoplasm]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.376824851793
+Metabolite tRNA(Asn) [cytoplasm]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.376824851793
+Metabolite tRNA(Asp) [cytoplasm]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.376824851653
+Metabolite tRNA(Cys) [cytoplasm]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.376824851793
+Metabolite tRNA(Gln) [cytoplasm]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.376824850595
+Metabolite tRNA(Glu) [cytoplasm]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.376824851653
+Metabolite tRNA(Gly) [cytoplasm]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.376824851676
+Metabolite tRNA(His) [cytoplasm]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.376824850595
+Metabolite tRNA(Ile) [cytoplasm]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.376824850595
+Metabolite tRNA(Leu) [cytoplasm]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.376824851793
+Metabolite tRNA(Lys) [cytoplasm]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.376824850595
+Metabolite tRNA(Met) [cytoplasm]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.376824851793
+Metabolite tRNA(Phe) [cytoplasm]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.376824851793
+Metabolite tRNA(Pro) [cytoplasm]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.376824851793
+Metabolite tRNA(Ser) [cytoplasm]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.376824849887
+Metabolite tRNA(Thr) [cytoplasm]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.376824851793
+Metabolite tRNA(Trp) [cytoplasm]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.376824851793
+Metabolite tRNA(Tyr) [cytoplasm]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.376824850361
+Metabolite tRNA(Val) [cytoplasm]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.376824851793
+
+
+Iterating through reaction: carbohydrate pseudoreaction
+Metabolite (1->3)-beta-D-glucan [cell envelope]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.376851471289
+Metabolite (1->6)-beta-D-glucan [cell envelope]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.376832627075
+Metabolite glycogen [cytoplasm]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.376832960315
+Metabolite mannan [cytoplasm]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.376876922786
+Metabolite trehalose [cytoplasm]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.376840231929
+
+
+Iterating through reaction: RNA pseudoreaction
+Metabolite AMP [cytoplasm]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.377207878353
+Metabolite CMP [cytoplasm]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.377051879645
+Metabolite GMP [cytoplasm]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.377380169385
+Metabolite UMP [cytoplasm]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.377042981348
+
+
+Iterating through reaction: DNA pseudoreaction
+Metabolite dAMP [cytoplasm]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.377213281284
+Metabolite dCMP [cytoplasm]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.377054473549
+Metabolite dGMP [cytoplasm]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.377255182753
+Metabolite dTMP [cytoplasm]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.377084995328
+
+
+Iterating through reaction: lipid backbone pseudoreaction
+Metabolite 1-phosphatidyl-1D-myo-inositol backbone [cytoplasm]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.376828609738
+Metabolite ergosterol [cytoplasm]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.380547472991
+Metabolite ergosterol ester backbone [cytoplasm]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.377719140331
+Metabolite fatty acid backbone [cytoplasm]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.376843753486
+Metabolite phosphatidyl-L-serine backbone [cytoplasm]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.37683218782
+Metabolite phosphatidylcholine backbone [cytoplasm]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.376879830205
+Metabolite phosphatidylethanolamine backbone [cytoplasm]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.37684758021
+Metabolite triglyceride backbone [cytoplasm]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.376836396836
+
+
+Iterating through reaction: lipid chain pseudoreaction
+Metabolite C16:0 chain [cytoplasm]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.37685506891
+Metabolite C16:1 chain [cytoplasm]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.37685808314
+Metabolite C18:0 chain [cytoplasm]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.376853885769
+Metabolite C18:1 chain [cytoplasm]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.376857427731
+
+
+Iterating through reaction: cofactor pseudoreaction
+Metabolite coenzyme A [cytoplasm]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.376830269938
+Metabolite FAD [cytoplasm]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.377157780931
+Metabolite NAD [cytoplasm]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.377995931373
+Metabolite NADH [cytoplasm]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.377992440867
+Metabolite NADP(+) [cytoplasm]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.377996177829
+Metabolite NADPH [cytoplasm]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.377999500675
+Metabolite riboflavin [cytoplasm]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.39433345688
+Metabolite TDP [cytoplasm]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.376825151799
+Metabolite THF [cytoplasm]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.377163628647
+Metabolite heme a [cytoplasm]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.37682736806
+
+
+Iterating through reaction: ion pseudoreaction
+Metabolite iron(2+) [cytoplasm]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.376824850917
+Metabolite potassium [cytoplasm]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.376824849625
+Metabolite sodium [cytoplasm]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.376824849539
+Metabolite sulphate [cytoplasm]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.376824850281
+Metabolite chloride [cytoplasm]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.376824850799
+Metabolite Mn(2+) [cytoplasm]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.376824850403
+Metabolite Zn(2+) [cytoplasm]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.376824850721
+Metabolite Ca(2+) [cytoplasm]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.376824850403
+Metabolite Mg(2+) [cytoplasm]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.376824850721
+Metabolite Cu2(+) [cytoplasm]
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+Error occurred in solveModel(). Read logFile for more information
+0.376824850403
+We are done.

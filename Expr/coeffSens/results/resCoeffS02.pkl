@@ -1,0 +1,6 @@
+(lp0
+S'resCoeff = 0.02'
+p1
+aS'M = 0.01'
+p2
+a.
